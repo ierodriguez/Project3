@@ -4,7 +4,7 @@ REST API with Flask, Docker, PyCharm, Postman and MySQL
 ![postman_all_records](screenshots/postman_all_records.png)
 ## Project showing postman showing one record with a get request
 ![postman_one_record](screenshots/postman_one_record.png)
-##Project showing postman creating a record by showing the post request and the results in the record listing
+## Project showing postman creating a record by showing the post request and the results in the record listing
 ![postman_new_record](screenshots/postman_new_record.png)
 ## *Result*:
 ![postman_new_record1](screenshots/postman_new_record1.png)
